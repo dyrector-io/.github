@@ -1,6 +1,6 @@
 # dyrectorio
 
-![dyrector.io github cover](github_cover.jpeg)
+![dyrector.io github cover](./github_cover.jpeg)
 
 [dyrector.io](https://github.com/dyrector-io/dyrectorio) is a software administration platform for developer teams without the resources to manage their applications on the cloud or on-premises to reduce their costs and scale their operations by simplifying steps of app management.
 
