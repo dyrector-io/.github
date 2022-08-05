@@ -13,4 +13,4 @@ While dyrector.io enables non-technical staff members to help with certain tasks
 
 ### Linkes
 
-- [dyrector.io docs](docs.dyrector.io)
+- [dyrector.io docs](https://docs.dyrector.io)
