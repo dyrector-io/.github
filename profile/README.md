@@ -1,5 +1,3 @@
-# dyrectorio
-
 ![dyrector.io product screenshot](./dyrectorio-platform-screenshot.jpeg)
 
 [dyrector.io](https://github.com/dyrector-io/dyrectorio) is an open-source deployment platform that helps software teams manage releases & deployments easily and efficiently. While non-specialists are enabled to manage these processes in a simplified, self-service manner, specialists can deploy and manage containerized apps faster through the platform.
