@@ -1,4 +1,4 @@
-![dyrector.io product screenshot](./dyrectorio-platform-screenshot.jpeg)
+![dyrector.io screenshot](./../dyrectorio-platform-screenshot.jpeg)
 
 [dyrector.io](https://github.com/dyrector-io/dyrectorio) is an open-source OCI container management platform that offers self-service Docker and Kubernetes deployment and configuration management capabilities to any cloud or on-premises infrastructure with a UI and an API.
 
